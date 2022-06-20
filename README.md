@@ -12,7 +12,7 @@
 * 2022
   - Unreal Engine - C++
   - OpenGL - C++ && C
-  - Other - Python && 
+  - Other/Raspberry Pi - Python
 
 
 <!---
