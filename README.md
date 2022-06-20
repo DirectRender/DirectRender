@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning C/C++
 -------
 # Timeline
-*  2017-2020
+* 2017-2020
   - FiveM/SDK - LUA, C#, HTML/CSS && JS
+  
 * 2019-2021
   - Unity - C#
+  
 * 2022
   - Unreal Engine - C++
   - OpenGL - C++ && C
