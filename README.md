@@ -8,7 +8,7 @@
 
 <h1></h1>
 
-<h4 align="center">Languages that I'm currently learning</h4>
+<h4 align="center">Languages/Frameworks that I'm currently learning</h4>
 <p align="center">
   <img alt="JavascriptPicture" src="https://img.shields.io/badge/JavaScript-545d68?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="ReactPicture"     src="https://img.shields.io/badge/React-545d68?style=for-the-badge&logo=react&logoColor=white">
@@ -31,9 +31,9 @@
 <h3 align="center">Currently working on</h3>
 <p align="center">
 <ol align="center">
-    <img alt="Rider" src="https://img.shields.io/badge/-FiveM-545d68?style=for-the-badge"><p>
-   <img alt="Rider" src="https://img.shields.io/github/commit-activity/y/DirectRender/PrivateRepo?style=for-the-badge">
-   <p>If <img alt="" src="https://img.shields.io/badge/-REPO%20NOT%20FOUND-e75c4b?style=for-the-badge"> then return isPrivate</p>
+     <img alt="JavascriptPicture" src="https://img.shields.io/badge/JavaScript-545d68?style=for-the-badge&logo=javascript&logoColor=white"><p>
+   <img alt="Repo" src="https://img.shields.io/github/commit-activity/y/DirectRender/PrivateRepo?style=for-the-badge">
+   <p>If <img alt="Repo" src="https://img.shields.io/badge/-REPO%20NOT%20FOUND-e75c4b?style=for-the-badge"> then return isPrivate</p>
 </ol>
 </p>
 
