@@ -7,10 +7,8 @@
 </p>
 <h1></h1>
 
-- 👷 Working as a Technical Artist in Unreal Engine (mostly) and also selling stuff over at UE's marketplace. Selling tools to make it easier for other developers.
-- 👷 I'm mostly doing shaders, tools and optimization. Optimization is what I love the most by far.
-- 👀 On a daily basis I usually learn, optimize and CREATE stuff!
-- ✈️ Fun fact: I started learning C++ first and then moved to C# and LUA thereafter.
+Moved over to Artstation @ 
+https://www.artstation.com/render
 
 <h1></h1>
 <p align="center">
